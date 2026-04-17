@@ -1,0 +1,11 @@
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+python-multipart==0.0.6
+pydantic==2.6.0
+langgraph==0.0.40
+google-generativeai==0.3.2
+PyMuPDF==1.23.8
+python-docx==0.8.11
+python-dotenv==1.0.0
+openai==1.12.0
+aiohttp==3.9.3
